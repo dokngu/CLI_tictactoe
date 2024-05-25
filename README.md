@@ -8,4 +8,4 @@ Features:
 - CPU player that makes random moves
 - Optimal CPU player that never loses. Decision making done based on Minimax concept in AI.
 
-To run: Have both player.py and game.py in the same directory then run game.py with Python
+To run: Have both player.py and game.py in the same directory, then run game.py with Python
