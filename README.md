@@ -1,11 +1,17 @@
-# CLI_tictactoe
+# Command-Line Tic-Tac-Toe
  
-Command line interface based tic-tac-toe game.
-Features:
+A command line interface based tic-tac-toe game coded with Python.
+
+## Relevant knowledge
+
+Python, Artificial Intelligence
+
+## Features
 
 - Abiilty to play as X or O
 - Local 2-player play
 - CPU player that makes random moves
 - Optimal CPU player that never loses. Decision making done based on Minimax concept in AI.
 
-To run: Have both player.py and game.py in the same directory, then run game.py with Python
+## Instructions
+Have both player.py and game.py in the same directory, then run game.py with Python
